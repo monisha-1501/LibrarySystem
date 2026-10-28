@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240090
+# Name: MONISHA D
+# Date: 28/10/2026
 
 
 # AIM:
@@ -95,6 +95,9 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+# Diagram 
+
+<img width="1227" height="886" alt="Screenshot 2026-10-26 191051" src="https://github.com/user-attachments/assets/a1d41fd7-b065-4636-89bb-bf10d88e61c0" />
 
 
 
